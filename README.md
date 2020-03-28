@@ -9,22 +9,22 @@ In this project, a single hidden layer neural network is used, with sigmoid acti
 ### Explanation of Maths behind Neural Network:
 Following work shows the maths behind a single hidden layer neural network: 
 
-![pic1](https://user-images.githubusercontent.com/41015749/71526629-c3ec9c80-28a5-11ea-85db-13a6ecd9a432.jpg)
+![pic1](https://github.com/shayanalibhatti/Coding-neural_network-for-XOR-logic-from-scratch/blob/master/pic1.jpg?raw=true)
 
-![pic2](https://user-images.githubusercontent.com/41015749/71526634-c818ba00-28a5-11ea-993d-f527a397f202.jpg)
+![pic2](https://github.com/shayanalibhatti/Coding-neural_network-for-XOR-logic-from-scratch/blob/master/pic2.jpg?raw=true)
 
-![pic3](https://user-images.githubusercontent.com/41015749/71526635-c9e27d80-28a5-11ea-86b0-3e019fd15f16.jpg)
+![pic3](https://github.com/shayanalibhatti/Coding-neural_network-for-XOR-logic-from-scratch/blob/master/pic3.jpg?raw=true)
 
-![pic4](https://user-images.githubusercontent.com/41015749/71526636-cb13aa80-28a5-11ea-984e-8f8ca64eab18.jpg)
+![pic4](https://github.com/shayanalibhatti/Coding-neural_network-for-XOR-logic-from-scratch/blob/master/pic4.jpg?raw=true)
 
 ### Results
 Following image shows the loss function for our network, it can be seen that it is decreasing.
 
-![pic5](https://user-images.githubusercontent.com/41015749/71526684-feeed000-28a5-11ea-86e7-ecffc4d5e2e8.jpg)
+![pic5](https://github.com/shayanalibhatti/Coding-neural_network-for-XOR-logic-from-scratch/blob/master/pic5.jpg?raw=true)
 
 Following are the predictions of neural network on test inputs:
 
-![pic6](https://user-images.githubusercontent.com/41015749/71526730-3cebf400-28a6-11ea-870a-a36c946b445d.jpg)
+![pic6](https://github.com/shayanalibhatti/Coding-neural_network-for-XOR-logic-from-scratch/blob/master/pic6.jpg?raw=true)
 
 Please view the jupyter notebook file attached, it has the code with comments to make it easy to understand for the readers.
 
